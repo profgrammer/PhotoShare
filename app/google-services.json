@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24591753716",
+    "firebase_url": "https://photoshare-d526c.firebaseio.com",
+    "project_id": "photoshare-d526c",
+    "storage_bucket": "photoshare-d526c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24591753716:android:527764260c89240bdbd9a1",
+        "android_client_info": {
+          "package_name": "com.example.photoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24591753716-0uedt1rj1cqm6k9tdss2ofis51osqi64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoshare",
+            "certificate_hash": "5ac23b729aa774c44f79fbc5b067c1a7b7d9ff75"
+          }
+        },
+        {
+          "client_id": "24591753716-v42tq6im63fe84m9r8j31t10jno0fb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfPVUss30f-x2SQABci3a7mFUggkZXEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24591753716-v42tq6im63fe84m9r8j31t10jno0fb33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
