@@ -99,6 +99,8 @@ public class AddPostActivity extends AppCompatActivity {
                                 public void run() {
                                     progressBar.setProgress(0);
                                     Toast.makeText(AddPostActivity.this, "Upload successful", Toast.LENGTH_LONG).show();
+                                    Intent i = new Intent(AddPostActivity.this, Home.class);
+                                    startActivity(i);
                                     finish();
                                 }
                             }, 500);
